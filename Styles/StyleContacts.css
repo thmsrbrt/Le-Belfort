@@ -1,0 +1,30 @@
+.article {
+    border: #c4c4c4 solid 5px;
+    border-radius: 8px;
+    margin-left: 15%;
+    margin-right: 15%;
+    overflow: hidden;
+}
+.titreArticle {
+    text-align: center;
+    padding-bottom: 10px;
+}
+input, textarea{
+    padding: 5px;
+    margin: 10px;
+}
+.case {
+    border: #c4c4c4 solid 2px;
+    border-radius: 8px;
+}
+.reussite {
+    text-align: center;
+    color: darkgreen;
+    font-weight: bold;
+}
+.formulaire {
+    text-align: center;
+}
+#valider {
+
+}

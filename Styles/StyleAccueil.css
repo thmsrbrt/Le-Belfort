@@ -1,0 +1,46 @@
+div.styletexte {
+    font-style: inherit;
+}
+body div div div a {
+    color: black;
+}
+body div div div a p.link {
+    color: black;
+    text-align: justify;
+}
+body div div div a ul.link {
+    color: black;
+}
+body div div div a:link {
+    text-decoration: none;
+}
+body div div div a h2 {
+    text-align: center;
+}
+.case {
+    margin-bottom: 10px;
+    border: #c4c4c4 solid 2px;
+    border-radius: 8px;
+    flex-wrap: wrap;
+    visibility: visible;
+
+}
+.space {
+    margin-right: 10px;
+}
+.allArticle{
+    padding-bottom: 5%;
+    padding-left: 10%;
+    padding-right: 10%;
+    display:grid;
+}
+body div div div a img {
+    display: block;
+    float: right;
+    margin-right: -15px;
+    max-height: 200px;
+    max-width: 350px;
+    border-radius: 13px;
+    width: auto;
+    padding: 10px;
+}

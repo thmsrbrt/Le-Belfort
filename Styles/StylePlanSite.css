@@ -1,0 +1,9 @@
+div ul li a:link {
+    text-decoration: none;
+}
+.barre {
+    border-right: 2px #c4c4c4 solid;
+}
+.menue {
+    margin-right: 100px;
+}

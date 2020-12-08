@@ -1,0 +1,85 @@
+/*
+Style header pour toutes les pages
+ */
+
+header .center{
+    position: center;
+}
+header .logo {
+    padding: 5px;
+    align-items: center;
+    top: auto;
+    display: flex;
+    justify-content: space-around;
+}
+.ButtonConnexion {
+    position: relative;
+    top: 10px;
+}
+.inscription {
+    left: auto;
+}
+header h4 {
+    text-align: center;
+    margin-top: -30px;
+    color: #275C78;
+}
+#explication {
+    height: auto;
+    position: absolute;
+    text-align: center;
+    flex-wrap: wrap;
+    width: 14em;
+    margin-top: 10px;
+    padding: 20px;
+    justify-content: space-around;
+    display: flex;
+}
+
+/*
+Style footer pour toutes les pages
+ */
+
+.footer {
+    position: relative;
+    margin-top: 5%;
+    bottom: 0px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #c4c4c4;
+}
+footer  ul {
+    list-style: square;
+    margin-left:-30px;
+}
+footer .left {
+    padding: 5px;
+    padding-top: 2%;
+}
+footer .leftleft {
+    padding: 5px;
+    padding-left: 12%;
+    padding-top: 2%;
+    max-width: 350px;
+}
+footer .center {
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-top: -1%;
+}
+footer .right {
+    padding: 5px;
+    padding-right: 12%;
+}
+footer #specialContent {
+    position: absolute;
+    right: 1%;
+    bottom: 1%;
+}
+footer.titleFooter {
+    color: black;
+    font-size: 40px;
+    text-align: center;
+}

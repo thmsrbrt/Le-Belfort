@@ -1,0 +1,71 @@
+div.article {
+    border: #c4c4c4 solid 2px;
+    border-radius: 8px;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+.titreArticle {
+    text-align: center;
+    padding-bottom: 10px;
+}
+.texteArticle {
+    text-align: justify;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+figure.imageArticle {
+    width: 100%;
+    position: absolute;
+    flex-wrap: wrap;
+}
+.imageArticle {
+    display: block;
+    float: right;
+    padding: 5px;
+    max-height: 250px;
+    border-radius: 8px;
+    margin-top: 90px;
+    margin-bottom: 10%;
+}
+div .imageArticle {
+    max-width: 350px;
+}
+figure {
+    float: right;
+    width: 30%;
+    text-align: center;
+    font-style: italic;
+    text-indent: 0;
+    margin: 0.5em;
+    padding: 0.5em;
+}
+.block {
+    margin-bottom: 10px;
+    margin-right: 10px;
+    border: #c4c4c4 solid 2px;
+    border-radius: 8px;
+    text-align: justify;
+}
+
+.questionnaire {
+    margin-top: 20px;
+    text-align: center;
+}
+.question{
+    color: black;
+    margin-bottom: 10px;
+}
+.buttonQuestion button {
+    padding: 15px;
+    position: inherit;
+    align-items: center;
+    margin-bottom: 20px;
+    width: 250px;
+}
+.boutons {
+    display: inline-block;
+}
+
+
+
+
