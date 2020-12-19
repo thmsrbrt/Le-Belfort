@@ -1,3 +1,3 @@
 # Le-Belfort
 
-https://github.com/thmsrbrt/Le-Belfort.git
+Vous pouvez consulter le site ici : http://le-belfort.tk
